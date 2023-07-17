@@ -6,4 +6,5 @@ sckit-learn
 seaborn
 notebook
 scipy
+ipykernel
 -e .
